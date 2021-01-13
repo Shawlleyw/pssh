@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rm.dir/filecmd/rm.c.o -o bin/rm 

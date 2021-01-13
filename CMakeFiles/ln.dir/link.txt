@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ln.dir/filecmd/ln.c.o -o bin/ln 

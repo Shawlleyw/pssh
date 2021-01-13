@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cp.dir/filecmd/cp.c.o -o bin/cp 

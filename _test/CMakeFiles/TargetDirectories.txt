@@ -1,0 +1,3 @@
+/home/wsy/Documents/sh/_test/CMakeFiles/rebuild_cache.dir
+/home/wsy/Documents/sh/_test/CMakeFiles/edit_cache.dir
+/home/wsy/Documents/sh/_test/CMakeFiles/getline.dir

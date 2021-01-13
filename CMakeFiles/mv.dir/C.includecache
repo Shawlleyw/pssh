@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wsy/Documents/sh/filecmd/mv.c
+dirent.h
+-
+errno.h
+-
+fcntl.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+

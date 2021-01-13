@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wsy/Documents/sh/filecmd/ls.c
+dirent.h
+-
+errno.h
+-
+fcntl.h
+-
+grp.h
+-
+math.h
+-
+pwd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+time.h
+-
+unistd.h
+-
+../src/io.h
+/home/wsy/Documents/sh/src/io.h
+
+/home/wsy/Documents/sh/src/io.h
+stdio.h
+-
+

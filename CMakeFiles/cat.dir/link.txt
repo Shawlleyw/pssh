@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cat.dir/filecmd/cat.c.o -o bin/cat 

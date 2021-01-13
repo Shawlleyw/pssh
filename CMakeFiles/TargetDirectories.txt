@@ -1,0 +1,12 @@
+/home/wsy/Documents/sh/CMakeFiles/xargs.dir
+/home/wsy/Documents/sh/CMakeFiles/ln.dir
+/home/wsy/Documents/sh/CMakeFiles/mv.dir
+/home/wsy/Documents/sh/CMakeFiles/edit_cache.dir
+/home/wsy/Documents/sh/CMakeFiles/cp.dir
+/home/wsy/Documents/sh/CMakeFiles/mkdir.dir
+/home/wsy/Documents/sh/CMakeFiles/rm.dir
+/home/wsy/Documents/sh/CMakeFiles/rebuild_cache.dir
+/home/wsy/Documents/sh/CMakeFiles/touch.dir
+/home/wsy/Documents/sh/CMakeFiles/cat.dir
+/home/wsy/Documents/sh/CMakeFiles/ls.dir
+/home/wsy/Documents/sh/CMakeFiles/sh.dir

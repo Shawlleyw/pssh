@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/less.dir/filecmd/less.c.o -o bin/less 

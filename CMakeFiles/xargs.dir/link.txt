@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/xargs.dir/filecmd/xargs.c.o -o bin/xargs 

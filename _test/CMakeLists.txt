@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(getline)
+FIND_LIBRARY(readline REQUIRED)
+AUX_SOURCE_DIRECTORY(../builtincmd BIC)
+ADD_EXECUTABLE(getline testgetline.c testread.c ../src/defines.c ../src/io.c ${BIC})
+TARGET_LINK_LIBRARIES(getline readline)

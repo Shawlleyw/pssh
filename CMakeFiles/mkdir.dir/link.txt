@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mkdir.dir/filecmd/mkdir.c.o -o bin/mkdir 

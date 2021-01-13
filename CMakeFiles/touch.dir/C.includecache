@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wsy/Documents/sh/filecmd/touch.c
+errno.h
+-
+fcntl.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+dirent.h
+-
+sys/stat.h
+-
+

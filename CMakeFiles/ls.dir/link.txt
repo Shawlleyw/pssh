@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ls.dir/filecmd/ls.c.o -o bin/ls 

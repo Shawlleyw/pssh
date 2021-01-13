@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/more.dir/filecmd/more.c.o -o bin/more 

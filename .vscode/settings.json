@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "array": "c",
+        "*.tcc": "c",
+        "memory": "c",
+        "future": "c",
+        "istream": "c",
+        "ranges": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c",
+        "variant": "c",
+        "random": "c",
+        "fstream": "c",
+        "iomanip": "c",
+        "iostream": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "iosfwd": "c",
+        "limits": "c",
+        "stop_token": "c",
+        "condition_variable": "c",
+        "cstdio": "c",
+        "string_view": "c"
+    }
+}
