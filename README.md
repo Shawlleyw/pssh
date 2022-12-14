@@ -1,7 +1,7 @@
 
-# Lab-shell
-Lab组新人任务：实现一个简易shell在终端并实现一些特性和命令
+# pssh
 
+虚拟shell终端，支持重定向和管道以及自己实现的命令。
 
 ## shell
  * `readline`实现行读入
